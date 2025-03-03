@@ -11,5 +11,5 @@ Automate Shoutcast Installation &amp;&amp; Configuration sous "python"
 
 # RUN 
 
-    chmod +x shoutcast_config.py
-    python shoutcast_config.py
+    chmod +x Shoutcast_config.py
+    python Shoutcast_config.py
